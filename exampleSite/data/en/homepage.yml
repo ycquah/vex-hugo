@@ -1,11 +1,13 @@
 ---
 banner:
   enable: true
-  title: Believe in Technology, Make the change
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
-    hic at, nostrum nihil!
+  title: Making Baby Sleep Better, Make the change
+  content: For many infants, rocking movement — works as a natural sleep aid, since
+    it reminds them of being inside their mother’s body. You will notice that a crying
+    baby will be soothe to calm when hugging the baby on the mother heart. This style
+    of care is clinically term as Kangaroo Care. The baby will feel the mother heart
+    beat and the slight movement will soothe the baby as baby feel they are still
+    inside the mother womb.
   image: images/watch.png
   button:
     enable: true
