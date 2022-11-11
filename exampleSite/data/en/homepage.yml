@@ -26,10 +26,10 @@ features:
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Easy Pricing
+  - title: Easy Time Setting
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 'Come with a timer setting of 30 mins, 1 hour, 2 hours range with just
+      a click on a button.  '
   right_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
