@@ -18,4 +18,6 @@ sizes: []
 button_link: "#"
 
 ---
-This model is another  line of automatic cradle produced by us. It incorporates automatic timer count down features and speed control. 
+This model is another  line of automatic cradle produced by us. It incorporates automatic timer count down features and speed control.
+
+All our cradle and hammocks are 100% safe to use from the baby is born up until it can sit up unaided. This stage usually occurs when a baby is between 6-8 months. Please note that a safety harness is not a substitute for parental supervision. The hammock is not a swing or toy.
