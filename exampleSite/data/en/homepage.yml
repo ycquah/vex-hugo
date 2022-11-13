@@ -44,11 +44,13 @@ features:
 promo:
   enable: true
   image: images/watch.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  title: Designed for Busy Mama, Easy of Use
+  content: 'Our product design around the concept of "Swabian Hausfrau". In the cultural
+    of the Swabian, the housewife will spend t spends her days working hard to keep
+    Home, Garden and Family all running smoothly. Rather than purchasing flashy (and
+    cheap) items with bells and whistles, the Swabian makes purchases based on quality.
+    She asks: Can I maintain that product ? Will it last for many years or more ?
+    What is the use of an appliance that breaks after few months ?'
 about_product:
   enable: true
   title: Why Choose RooCuddle
