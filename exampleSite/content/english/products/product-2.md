@@ -20,4 +20,8 @@ sizes:
 button_link: "#"
 
 ---
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Our high quality baby sleeping bags, also called wearable blankets, are available in three different sizes from infants to the hard to find toddler size common to Europe. 
+
+Baby sleeping bags ensure that your child is always covered and warm, regardless of how actively they may sleep. Baby sleeping bags are the safer, more comfortable alternative to traditional loose baby bedding. Designed as a wearable blanket, a baby sleeping bag keeps your baby comfortable and warm all night long, so you'll sleep better too! 
+
+With our bags, only soft jersey 100% cotton touches your baby's skin, allowing for as comfortable sleeping experience as possible. If babies are comfortable, they tend to sleep longer.
