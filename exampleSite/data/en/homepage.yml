@@ -37,10 +37,10 @@ features:
   - title: Build in Night Feeding Light
     icon: tf-ion-ios-bell-outline
     content: ''
-  - title: Easy Pricing
+  - title: Energy Saving
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 'The cradle just use 5W, max 9W. In layman term. It just cost about 22
+      cents per hour. '
 promo:
   enable: true
   image: images/watch.png
