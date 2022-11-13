@@ -34,10 +34,9 @@ features:
     icon: tf-ion-ios-alarm-outline
     content: The cradle operate with a Ultra Silent Engine with close to zero noise
       environement.
-  - title: Energy Saving
+  - title: Build in Night Feeding Light
     icon: tf-ion-ios-bell-outline
-    content: 'The cradle just use 5W, max 9W. In layman term. It just cost about 22
-      cents per hour. '
+    content: ''
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
