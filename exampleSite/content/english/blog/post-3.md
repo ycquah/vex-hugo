@@ -25,8 +25,4 @@ This is a very usual scene. The grandparent or nanny will tied a rope to the man
 
 This happen and is real story. 
 
-### Improper Selection of Cradle Stand
-
-### 
-
 Written by Ryan Quah
