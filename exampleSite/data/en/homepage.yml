@@ -52,7 +52,7 @@ promo:
     She asks: Can I maintain that product ? Will it last for many years or more ?
     What is the use of an appliance that breaks after few months ?'
 about_product:
-  enable: true
+  enable: false
   title: Why Choose RooCuddle
   items:
   - image: images/showcase/showcase-4.png
