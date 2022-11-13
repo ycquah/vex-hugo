@@ -16,7 +16,7 @@ banner:
 features:
   enable: true
   title: Our Core Features
-  image: images/111.png
+  image: images/1111.png
   left_side:
   - title: 'Safety '
     icon: tf-ion-ios-alarm-outline
