@@ -17,4 +17,4 @@ sizes: []
 button_link: "#"
 
 ---
-This model is another  line of automatic cradle produced by us. It incorporates automatic timer coun down features and speed control. 
+This model is another  line of automatic cradle produced by us. It incorporates automatic timer count down features and speed control. 
