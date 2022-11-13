@@ -2,10 +2,11 @@
 title: 'RooCuddle '
 date: 2019-10-17T05:22:16+00:00
 images:
-- images/showcase/showcase-1.png
-- images/showcase/showcase-4.png
+- "/images/_20210901152928.jpg"
+- "/images/_20210901150839.jpg"
+- "/images/_20210901150832.jpg"
 description: this is meta description
-price: "280"
+price: '280'
 discount_price: "260"
 colors:
 - white
